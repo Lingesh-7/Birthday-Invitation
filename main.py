@@ -2,7 +2,7 @@ with open('starting_letter.txt','w') as f:
     f.write("Dear [name],\nYou are invited to my brithday this Saturday.\nHope you can make it!\nLingesh")
 
 with open('name.txt','w') as f:
-    f.write("varsha\nselva\nmark\nsudar")
+    f.write("varsha\elon\nmark\nsundar")
 PLACEHOLDER="[name]"
 
 with open('name.txt','r') as re:
