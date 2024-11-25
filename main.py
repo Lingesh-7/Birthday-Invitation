@@ -27,7 +27,7 @@ with open('starting_letter.txt','r') as j:
 
 
 
-# names=['varsha','selva','mark','sudar']
+# names=['varsha','elon','mark','sudar']
 # with open('starting_letter.txt') as f:
 #     g=f.read()
 #     for i in names:
